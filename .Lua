@@ -46,7 +46,7 @@ VestraHubV5.Text = "Vestra Hub (Ultra Best)"
 VestraHubV5.TextColor3 = Color3.fromRGB(255, 255, 255)
 VestraHubV5.TextSize = 14.000
 VestraHubV5.MouseButton1Down:Connect(function()
-	getgenv().key = "Vstra.V5_c98e9b642ef2e5f8"
+	getgenv().key = "Vstra.V5_73b395ff54e72348"
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/xandudiscord/vestra/main/loader.lua"))()
 end)
 
